@@ -3,5 +3,6 @@ An AI model that predicts car prices using Includes info about cars features lik
 
 car_price_prediction.csv is a copy of a car price prediction challenge dataset from kaggle. You can find the dataset using the following link:
 https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge/data
-All rights to the dataset lie with the original author and contributors of the dataset on kaggle.
+
+All rights to the dataset lay with the original author and contributors of the dataset on kaggle.
 
